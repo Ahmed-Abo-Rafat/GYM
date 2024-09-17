@@ -2,7 +2,7 @@
 It is a fitness exercises app to learn you how to do the exercises in gym with the right way by using react.js and hooks, matrial ui and using two separate APIS (ExerciseDB API - Youtube Search and Download API) from RapidApi to fetch data from those APIS to show you images and videos specific to the kind of exercise you want to do for instance (Back, Lower Arms, Lower Legs, Upper Arms ...etc).
 
 ## Live Site:  
-   - Link: https://gym-exercs.netlify.app/
+   - Link: https://gym-exerc.netlify.app/
 ## Setup
 To run this project, install it locally using npm:
 
